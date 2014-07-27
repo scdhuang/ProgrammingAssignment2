@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## This first function is to create a matrix that is inversible
+## This function is to create a matrix that is inversible for the use of the next function.
 
 
 makeCacheMatrix <- function(x = matrix())
